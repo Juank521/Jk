@@ -12,3 +12,8 @@ body{
     font-variation-settings: 
         "wdth" 100;
 }
+
+img{
+    width: 400;
+    height: auto;
+}
