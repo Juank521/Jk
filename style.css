@@ -13,7 +13,7 @@ body{
         "wdth" 100;
 }
 
-img/imagen1.png{
-    width: 40%;
+.logo{
+    width: 40px;
     height: auto;
 }
