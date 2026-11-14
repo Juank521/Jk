@@ -3,3 +3,12 @@
     padding: 0;
     box-sizing: 0;
 }
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 0;
+    font-style: normal;
+    font-variation-settings: 
+        "wdth" 100;
+}
